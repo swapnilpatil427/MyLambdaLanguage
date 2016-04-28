@@ -15,4 +15,9 @@ test f = do
 
 main = do
     test "examples/ex1.lam"
+    test "examples/ex2.lam"
+    test "examples/ex3.lam"
+    test "examples/ex4.lam"
+    test "examples/ex5.lam"
+    test "examples/ex6.lam"
     --putStr x
